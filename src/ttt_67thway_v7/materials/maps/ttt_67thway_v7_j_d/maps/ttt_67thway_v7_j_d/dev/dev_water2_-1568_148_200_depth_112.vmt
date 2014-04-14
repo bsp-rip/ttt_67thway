@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/ttt_67thway_v7_j_d/dev/dev_water2_-1568_148_200.vmt"
+	"insert"
+	{
+		"$waterdepth"		"112"
+	}
+}

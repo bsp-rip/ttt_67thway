@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEWALL007E.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_67thway_v7_j_d/c-776_-870_-376"
+	}
+}

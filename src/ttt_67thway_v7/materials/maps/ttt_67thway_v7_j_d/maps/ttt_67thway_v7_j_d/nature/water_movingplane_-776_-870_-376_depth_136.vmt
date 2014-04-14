@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/ttt_67thway_v7_j_d/nature/water_movingplane_-776_-870_-376.vmt"
+	"insert"
+	{
+		"$waterdepth"		"136"
+	}
+}
